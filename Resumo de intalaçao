@@ -1,0 +1,8 @@
+Resumo do que fazer agora
+Instale o Python.
+
+Rode :pip install moviepy no terminal.
+
+Copie o código para um arquivo chamado conversor.py.
+
+Rode o arquivo e selecione seu vídeo!
